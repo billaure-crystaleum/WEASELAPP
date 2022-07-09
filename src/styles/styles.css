@@ -50,7 +50,7 @@ body {
   align-items: center;
   background-image: url("https://aliencro.me/wp-content/uploads/2022/07/bg.gif");
   justify-content: center;
-  flex-direction: column;
+  flex-direction: flex;
 }
 
 .card {
