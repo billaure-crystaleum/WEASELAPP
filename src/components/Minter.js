@@ -109,7 +109,7 @@ function Minter() {
     const params = {
       to: info.contractJSON.address,
       from: info.account,
-      data: info.contract.methods.cost().encodeABI(),
+      data: info.contract.methods._getCost(info.account).encodeABI(),
     };
     try {
       const result = await window.ethereum.request({
