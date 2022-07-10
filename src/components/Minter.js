@@ -295,7 +295,7 @@ function Minter() {
           }}
           className="_90"
           target="_blank"
-          href="https://cronoscan.com/token/0x0733D3c5774ef372E262a7E37177aaaF7493fA26"
+          href="https://cronoscan.com/token/0x62ecEcBcc95d0F052489430f31A8307521BDa86E"
         >
           View Contract
         </a>
